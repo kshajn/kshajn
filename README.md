@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kshajn
-- 👀 I’m interested in reading famtasy books
+- 👀 I’m interested in reading fantasy books
 - 🌱 I’m currently learning AWS, Terraform, Docker, Python, Bash, PowerShell, Jira
 - 💞️ I’m looking to collaborate on nothing just yet
 - 📫 How to reach me keishamiajean@gmail.com
